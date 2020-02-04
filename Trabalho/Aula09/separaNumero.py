@@ -1,0 +1,5 @@
+num = str(input("Digite um  numero de 0 a 9999 ")).strip()
+print("Priemiro numero = {}".format(num[0]))
+print("Segiundo numero = {}".format(num[1]))
+print("Terceiro numero = {}".format(num[2]))
+print("Quarto numero = {}".format(num[3]))

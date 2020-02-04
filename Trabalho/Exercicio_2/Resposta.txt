@@ -1,0 +1,4 @@
+Caso programa de comparação de valores:
+	• Mostra normalmente o maior valor digitado.
+Caso programa de comparação de valores:
+	• O valor negativo não representa nada no contexto, por isso foi criada a condicional que avalia corretamente a situação 
