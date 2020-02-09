@@ -73,3 +73,12 @@ x = int(input("digite um valor"))
 y = int(input("digite um valor"))
 
 print("SOMA =",x+y)
+
+#LACO DE REPETICAO
+
+n = 10
+cont = 0
+#WHILE
+while cont < n :
+    print(cont)
+    cont++
